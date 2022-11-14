@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="a circle logo with an emblem of a speech bubble and a background of a gradient of blue and green" width="129" src="./logo.svg">
 </p>
-<h1 align="center">DNOME</h1>
+<h1 align="center">Dnome-Without-Superfluous</h1>
 <h4 align="center">Adwaita-inspired Discord Theme</h4>
 <p align="center">
   <br />
@@ -10,6 +10,10 @@
 </p>
 
 # 
+
+## About the fork.
+The fork is aimed at fixing unnecessary decorations and objects that are not related to the topic. 
+In particular, it removes unnecessary information from the settings panel, which only loads. You can say that it does not interfere ... But it is not really needed. All information about the authors is placed in the theme file, and it should only be there.
 
 ## Info
 
